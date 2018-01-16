@@ -2,18 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="24daf643-e213-4b34-ab24-3999d60fe561" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change beforePath="$PROJECT_DIR$/../LinkedListChallenge/.idea/misc.xml" afterPath="$PROJECT_DIR$/../LinkedListChallenge/.idea/misc.xml" />
-      <change beforePath="$PROJECT_DIR$/../LinkedListChallenge/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../LinkedListChallenge/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/../LinkedListChallenge/LinkedListChallenge.iml" afterPath="$PROJECT_DIR$/../LinkedListChallenge/LinkedListChallenge.iml" />
-      <change beforePath="$PROJECT_DIR$/../LinkedListChallenge/out/production/LinkedListChallenge/com/slazien/Album.class" afterPath="$PROJECT_DIR$/../LinkedListChallenge/out/production/LinkedListChallenge/com/slazien/Album.class" />
-      <change beforePath="$PROJECT_DIR$/../LinkedListChallenge/out/production/LinkedListChallenge/com/slazien/Main.class" afterPath="$PROJECT_DIR$/../LinkedListChallenge/out/production/LinkedListChallenge/com/slazien/Main.class" />
-      <change beforePath="$PROJECT_DIR$/../LinkedListChallenge/out/production/LinkedListChallenge/com/slazien/Playlist.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../LinkedListChallenge/out/production/LinkedListChallenge/com/slazien/Song.class" afterPath="$PROJECT_DIR$/../LinkedListChallenge/out/production/LinkedListChallenge/com/slazien/Song.class" />
-      <change beforePath="$PROJECT_DIR$/../LinkedListChallenge/src/com/slazien/Album.java" afterPath="$PROJECT_DIR$/../LinkedListChallenge/src/com/slazien/Album.java" />
-      <change beforePath="$PROJECT_DIR$/../LinkedListChallenge/src/com/slazien/Main.java" afterPath="$PROJECT_DIR$/../LinkedListChallenge/src/com/slazien/Main.java" />
-      <change beforePath="$PROJECT_DIR$/../LinkedListChallenge/src/com/slazien/Playlist.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../LinkedListChallenge/src/com/slazien/Song.java" afterPath="$PROJECT_DIR$/../LinkedListChallenge/src/com/slazien/Song.java" />
+      <change beforePath="$PROJECT_DIR$/../InterfacesChallenge/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../InterfacesChallenge/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -25,7 +14,7 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Main.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="Main.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/slazien/Main.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="216">
@@ -61,7 +50,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Gearbox.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Gearbox.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/slazien/Gearbox.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="306">
@@ -133,6 +122,8 @@
     </navigator>
     <panes>
       <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -155,9 +146,7 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scratches" />
       <pane id="AndroidView" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -305,14 +294,16 @@
       <workItem from="1516013853947" duration="145000" />
       <workItem from="1516014625072" duration="17000" />
       <workItem from="1516014661964" duration="8000" />
+      <workItem from="1516017335037" duration="10000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3050000" />
+    <option name="totallyTimeSpent" value="3060000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="105" y="0" width="1920" height="1080" extended-state="6" />
+    <frame x="0" y="0" width="1920" height="1080" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -321,8 +312,8 @@
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3298969" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -332,8 +323,8 @@
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -354,6 +345,53 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/com/slazien/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="12" column="20" lean-forward="false" selection-start-line="12" selection-start-column="20" selection-end-line="12" selection-end-column="20" />
+          <folding>
+            <element signature="e#781#782#0" expanded="true" />
+            <element signature="e#855#856#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/slazien/Button.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="15" column="27" lean-forward="false" selection-start-line="15" selection-start-column="27" selection-end-line="15" selection-end-column="27" />
+          <folding>
+            <element signature="e#148#149#0" expanded="true" />
+            <element signature="e#182#183#0" expanded="true" />
+            <element signature="e#214#215#0" expanded="true" />
+            <element signature="e#242#243#0" expanded="true" />
+            <element signature="e#284#285#0" expanded="true" />
+            <element signature="e#318#319#0" expanded="true" />
+            <element signature="e#369#370#0" expanded="true" />
+            <element signature="e#407#408#0" expanded="true" />
+            <element signature="e#478#479#0" expanded="true" />
+            <element signature="e#532#533#0" expanded="true" />
+            <element signature="e#561#562#0" expanded="true" />
+            <element signature="e#617#618#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/slazien/Gearbox.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="17" column="30" lean-forward="false" selection-start-line="17" selection-start-column="30" selection-end-line="17" selection-end-column="30" />
+          <folding>
+            <element signature="e#526#527#0" expanded="true" />
+            <element signature="e#562#563#0" expanded="true" />
+            <element signature="e#1407#1408#0" expanded="true" />
+            <element signature="e#1443#1444#0" expanded="true" />
+            <element signature="e#1626#1627#0" expanded="true" />
+            <element signature="e#1674#1675#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/slazien/Main.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="216">
@@ -503,17 +541,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/slazien/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="12" column="20" lean-forward="false" selection-start-line="12" selection-start-column="20" selection-end-line="12" selection-end-column="20" />
-          <folding>
-            <element signature="e#781#782#0" expanded="true" />
-            <element signature="e#855#856#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/slazien/Button.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
@@ -546,6 +573,17 @@
             <element signature="e#1443#1444#0" expanded="true" />
             <element signature="e#1626#1627#0" expanded="true" />
             <element signature="e#1674#1675#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/slazien/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="12" column="20" lean-forward="false" selection-start-line="12" selection-start-column="20" selection-end-line="12" selection-end-column="20" />
+          <folding>
+            <element signature="e#781#782#0" expanded="true" />
+            <element signature="e#855#856#0" expanded="true" />
           </folding>
         </state>
       </provider>
