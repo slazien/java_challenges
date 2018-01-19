@@ -317,12 +317,12 @@
       <workItem from="1516279627655" duration="69000" />
       <workItem from="1516280423906" duration="1991000" />
       <workItem from="1516289563167" duration="5173000" />
-      <workItem from="1516356523213" duration="6297000" />
+      <workItem from="1516356523213" duration="6357000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="13530000" />
+    <option name="totallyTimeSpent" value="13590000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="960" y="0" width="960" height="1080" extended-state="4" />
@@ -559,10 +559,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="313">
           <caret line="1392" column="30" lean-forward="false" selection-start-line="1392" selection-start-column="30" selection-end-line="1392" selection-end-column="30" />
-          <folding>
-            <element signature="e#45779#45780#0" expanded="true" />
-            <element signature="e#45828#45829#0" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -571,7 +568,7 @@
         <state relative-caret-position="270">
           <caret line="77" column="66" lean-forward="false" selection-start-line="77" selection-start-column="66" selection-end-line="77" selection-end-column="66" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="imports" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -621,10 +618,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="207">
           <caret line="17" column="19" lean-forward="false" selection-start-line="17" selection-start-column="19" selection-end-line="17" selection-end-column="19" />
-          <folding>
-            <element signature="e#348#349#0" expanded="true" />
-            <element signature="e#383#384#0" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
