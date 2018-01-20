@@ -146,7 +146,7 @@
     <option name="height" value="1080" />
   </component>
   <component name="ProjectView">
-    <navigator currentView="ProjectPane" proportions="" version="1">
+    <navigator proportions="" version="1">
       <flattenPackages />
       <showMembers />
       <showModules />
@@ -159,34 +159,7 @@
       <manualOrder />
       <foldersAlwaysOnTop value="true" />
     </navigator>
-    <panes>
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="SortedCollections" type="b2602c69:ProjectViewProjectNode" />
-              <item name="SortedCollections" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="SortedCollections" type="b2602c69:ProjectViewProjectNode" />
-              <item name="SortedCollections" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="SortedCollections" type="b2602c69:ProjectViewProjectNode" />
-              <item name="SortedCollections" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="slazien" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-      <pane id="Scratches" />
-      <pane id="PackagesPane" />
-      <pane id="AndroidView" />
-      <pane id="Scope" />
-    </panes>
+    <panes />
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
@@ -265,12 +238,12 @@
       <workItem from="1516366971821" duration="8000" />
       <workItem from="1516366999448" duration="6252000" />
       <workItem from="1516378899607" duration="4767000" />
-      <workItem from="1516442101816" duration="3000" />
+      <workItem from="1516442101816" duration="820000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="13906000" />
+    <option name="totallyTimeSpent" value="14723000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="960" y="0" width="1280" height="1080" extended-state="4" />
