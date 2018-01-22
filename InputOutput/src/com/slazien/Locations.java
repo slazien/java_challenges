@@ -53,7 +53,7 @@ public class Locations implements Map<Integer, Location> {
             while (!eof) {
                 try {
                     Location location = (Location) locFile.readObject();
-                    System.out.println("Reda location " + location.getLocationID() + " : " + location.getDescription());
+                    System.out.println("Read location " + location.getLocationID() + " : " + location.getDescription());
                     System.out.println("Found " + location.getExits().size() + " exits");
                     locations.put(location.getLocationID(), location);
                 } catch (EOFException e) {
