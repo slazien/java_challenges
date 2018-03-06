@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="77e9bc0b-ea30-4bf6-8967-b3e575295ba9" name="Default" comment="" />
+    <list default="true" id="88b17eab-b1eb-4f81-89ce-e32df500b909" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -12,37 +12,48 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Main.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="Main.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/slazien/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="162">
-              <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="StringUtilities.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/com/slazien/StringUtilities.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="360">
-              <caret line="20" column="0" lean-forward="true" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
+            <state relative-caret-position="18">
+              <caret line="1" column="0" lean-forward="true" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
               <folding>
-                <element signature="e#429#430#0" expanded="true" />
-                <element signature="e#468#469#0" expanded="true" />
+                <marker date="1519402303072" expanded="true" signature="671:691" ph="DROP TABLE I... " />
+                <marker date="1519402303072" expanded="true" signature="671:692" ph="DROP TABLE I... " />
+                <marker date="1519402303072" expanded="true" signature="744:770" ph="CREATE TABLE... IF" />
+                <marker date="1519402303072" expanded="true" signature="744:771" ph="CREATE TABLE... IF" />
+                <marker date="1519402303072" expanded="true" signature="744:789" ph="CREATE TABLE... IF" />
+                <marker date="1519402303072" expanded="true" signature="744:815" ph="CREATE TABLE... IF" />
+                <marker date="1519402303072" expanded="true" signature="744:840" ph="CREATE TABLE... IF" />
+                <marker date="1519402303072" expanded="true" signature="744:841" ph="CREATE TABLE... IF" />
+                <marker date="1519402303072" expanded="true" signature="744:890" ph="CREATE TABLE... IF" />
+                <marker date="1519402303072" expanded="true" signature="744:891" ph="CREATE TABLE... IF" />
+                <marker date="1519402303072" expanded="true" signature="744:936" ph="CREATE TABLE... IF" />
+                <marker date="1519402303072" expanded="true" signature="744:962" ph="CREATE TABLE... IF" />
+                <marker date="1519402303072" expanded="true" signature="1289:1296" ph="UPDATE contacts... " />
+                <marker date="1519402303072" expanded="true" signature="1289:1322" ph="UPDATE contacts... " />
+                <marker date="1519402303072" expanded="true" signature="1289:1323" ph="UPDATE contacts... " />
+                <marker date="1519402303072" expanded="true" signature="1289:1371" ph="UPDATE contacts... " />
+                <marker date="1519402303072" expanded="true" signature="1289:1402" ph="UPDATE contacts... " />
+                <marker date="1519402303072" expanded="true" signature="1289:1403" ph="UPDATE contacts... " />
+                <marker date="1519402303072" expanded="true" signature="1289:1429" ph="UPDATE contacts... " />
+                <marker date="1519402303072" expanded="true" signature="1465:1477" ph="DELETE FROM contacts... " />
+                <marker date="1519402303072" expanded="true" signature="1465:1505" ph="DELETE FROM contacts... " />
+                <marker date="1519402303072" expanded="true" signature="1465:1506" ph="DELETE FROM contacts... " />
+                <marker date="1519402303072" expanded="true" signature="1465:1551" ph="DELETE FROM contacts... " />
+                <marker date="1519402303072" expanded="true" signature="1612:1625" ph="SELECT * FRO... " />
+                <marker date="1519402303072" expanded="true" signature="1612:1626" ph="SELECT * FRO... contacts" />
+                <marker date="1519402303072" expanded="true" signature="2301:2447" ph="INSERT INTO contacts... " />
+                <marker date="1519402303072" expanded="true" signature="2301:2461" ph="INSERT INTO contacts... " />
+                <marker date="1519402303072" expanded="true" signature="2301:2477" ph="INSERT INTO contacts... " />
+                <marker date="1519402303072" expanded="true" signature="2301:2492" ph="INSERT INTO contacts... " />
+                <marker date="1519402303072" expanded="true" signature="2301:2494" ph="INSERT INTO contacts... " />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
-  </component>
-  <component name="FileTemplateManagerImpl">
-    <option name="RECENT_TEMPLATES">
-      <list>
-        <option value="Class" />
-      </list>
-    </option>
   </component>
   <component name="GradleLocalSettings">
     <option name="externalProjectsViewState">
@@ -52,7 +63,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/com/slazien/StringUtilities.java" />
         <option value="$PROJECT_DIR$/src/com/slazien/Main.java" />
       </list>
     </option>
@@ -69,7 +79,7 @@
     <option name="height" value="1080" />
   </component>
   <component name="ProjectView">
-    <navigator proportions="" version="1">
+    <navigator currentView="ProjectPane" proportions="" version="1">
       <flattenPackages />
       <showMembers />
       <showModules />
@@ -82,15 +92,42 @@
       <manualOrder />
       <foldersAlwaysOnTop value="true" />
     </navigator>
-    <panes />
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="TestDB" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TestDB" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="TestDB" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TestDB" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="TestDB" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TestDB" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="slazien" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scratches" />
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="AndroidView" />
+    </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$USER_HOME$/Downloads/JTransforms-3.1-with-dependencies.jar!/" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Downloads/sqlite-jdbc-3.21.0.jar!/" />
     <property name="project.structure.last.edited" value="Libraries" />
-    <property name="project.structure.proportion" value="0.15" />
-    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -116,7 +153,7 @@
       <option name="ENABLE_SWING_INSPECTOR" value="false" />
       <option name="ENV_VARIABLES" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="DebuggerDemo" />
+      <module name="TestDB" />
       <envs />
       <RunnerSettings RunnerId="Run" />
       <ConfigurationWrapper RunnerId="Run" />
@@ -212,30 +249,25 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="77e9bc0b-ea30-4bf6-8967-b3e575295ba9" name="Default" comment="" />
-      <created>1517859280805</created>
+      <changelist id="88b17eab-b1eb-4f81-89ce-e32df500b909" name="Default" comment="" />
+      <created>1519218043776</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1517859280805</updated>
-      <workItem from="1517859283957" duration="4920000" />
-      <workItem from="1517874949525" duration="17000" />
-      <workItem from="1517932664608" duration="602000" />
-      <workItem from="1518108301659" duration="111000" />
-      <workItem from="1518705796913" duration="527000" />
-      <workItem from="1518724962120" duration="1207000" />
-      <workItem from="1519214980195" duration="1626000" />
+      <updated>1519218043776</updated>
+      <workItem from="1519218046444" duration="2525000" />
+      <workItem from="1519400800290" duration="1523000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9010000" />
+    <option name="totallyTimeSpent" value="4048000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="960" y="0" width="960" height="1080" extended-state="4" />
-    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -246,7 +278,7 @@
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33333334" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="SciView" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -259,7 +291,6 @@
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3298969" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
@@ -271,200 +302,91 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/com/slazien/Main.java</url>
-          <line>14</line>
-          <properties />
-          <option name="timeStamp" value="26" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/com/slazien/StringUtilities.java</url>
-          <line>8</line>
-          <properties />
-          <option name="timeStamp" value="27" />
-        </line-breakpoint>
-      </breakpoints>
-      <breakpoints-dialog>
-        <breakpoints-dialog />
-      </breakpoints-dialog>
-      <option name="time" value="29" />
-    </breakpoint-manager>
+    <breakpoint-manager />
     <watches-manager />
-  </component>
-  <component name="debuggerHistoryManager">
-    <expressions id="setValue">
-      <expression>
-        <expression-string>'b'</expression-string>
-        <language-id>JAVA</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
-      <expression>
-        <expression-string>5</expression-string>
-        <language-id>JAVA</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
-    </expressions>
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/com/slazien/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="162">
-          <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
-          <folding />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1519402303072" expanded="true" signature="671:691" ph="DROP TABLE I... " />
+            <marker date="1519402303072" expanded="true" signature="671:692" ph="DROP TABLE I... " />
+            <marker date="1519402303072" expanded="true" signature="744:770" ph="CREATE TABLE... IF" />
+            <marker date="1519402303072" expanded="true" signature="744:771" ph="CREATE TABLE... IF" />
+            <marker date="1519402303072" expanded="true" signature="744:789" ph="CREATE TABLE... IF" />
+            <marker date="1519402303072" expanded="true" signature="744:815" ph="CREATE TABLE... IF" />
+            <marker date="1519402303072" expanded="true" signature="744:840" ph="CREATE TABLE... IF" />
+            <marker date="1519402303072" expanded="true" signature="744:841" ph="CREATE TABLE... IF" />
+            <marker date="1519402303072" expanded="true" signature="744:890" ph="CREATE TABLE... IF" />
+            <marker date="1519402303072" expanded="true" signature="744:891" ph="CREATE TABLE... IF" />
+            <marker date="1519402303072" expanded="true" signature="744:936" ph="CREATE TABLE... IF" />
+            <marker date="1519402303072" expanded="true" signature="744:962" ph="CREATE TABLE... IF" />
+            <marker date="1519402303072" expanded="true" signature="1289:1296" ph="UPDATE contacts... " />
+            <marker date="1519402303072" expanded="true" signature="1289:1322" ph="UPDATE contacts... " />
+            <marker date="1519402303072" expanded="true" signature="1289:1323" ph="UPDATE contacts... " />
+            <marker date="1519402303072" expanded="true" signature="1289:1371" ph="UPDATE contacts... " />
+            <marker date="1519402303072" expanded="true" signature="1289:1402" ph="UPDATE contacts... " />
+            <marker date="1519402303072" expanded="true" signature="1289:1403" ph="UPDATE contacts... " />
+            <marker date="1519402303072" expanded="true" signature="1289:1429" ph="UPDATE contacts... " />
+            <marker date="1519402303072" expanded="true" signature="1465:1477" ph="DELETE FROM contacts... " />
+            <marker date="1519402303072" expanded="true" signature="1465:1505" ph="DELETE FROM contacts... " />
+            <marker date="1519402303072" expanded="true" signature="1465:1506" ph="DELETE FROM contacts... " />
+            <marker date="1519402303072" expanded="true" signature="1465:1551" ph="DELETE FROM contacts... " />
+            <marker date="1519402303072" expanded="true" signature="1612:1625" ph="SELECT * FRO... " />
+            <marker date="1519402303072" expanded="true" signature="1612:1626" ph="SELECT * FRO... contacts" />
+            <marker date="1519402303072" expanded="true" signature="2301:2447" ph="INSERT INTO contacts... " />
+            <marker date="1519402303072" expanded="true" signature="2301:2461" ph="INSERT INTO contacts... " />
+            <marker date="1519402303072" expanded="true" signature="2301:2477" ph="INSERT INTO contacts... " />
+            <marker date="1519402303072" expanded="true" signature="2301:2492" ph="INSERT INTO contacts... " />
+            <marker date="1519402303072" expanded="true" signature="2301:2494" ph="INSERT INTO contacts... " />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/slazien/StringUtilities.java">
+    <entry file="file://$PROJECT_DIR$/TestDB.iml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="324">
-          <caret line="18" column="5" lean-forward="false" selection-start-line="18" selection-start-column="5" selection-end-line="18" selection-end-column="5" />
-          <folding>
-            <element signature="e#429#430#0" expanded="true" />
-            <element signature="e#468#469#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/slazien/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="162">
-          <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/slazien/StringUtilities.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="324">
-          <caret line="18" column="5" lean-forward="true" selection-start-line="18" selection-start-column="5" selection-end-line="18" selection-end-column="5" />
+        <state relative-caret-position="18">
+          <caret line="1" column="0" lean-forward="true" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
           <folding>
-            <element signature="e#429#430#0" expanded="true" />
-            <element signature="e#468#469#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/slazien/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="17" column="0" lean-forward="false" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/slazien/StringUtilities.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
-          <folding>
-            <element signature="e#429#430#0" expanded="true" />
-            <element signature="e#468#469#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/slazien/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="17" column="0" lean-forward="false" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/slazien/StringUtilities.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
-          <folding>
-            <element signature="e#429#430#0" expanded="true" />
-            <element signature="e#468#469#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/slazien/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="17" column="0" lean-forward="false" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/slazien/StringUtilities.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
-          <folding>
-            <element signature="e#429#430#0" expanded="true" />
-            <element signature="e#468#469#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/slazien/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="17" column="0" lean-forward="false" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/slazien/StringUtilities.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
-          <folding>
-            <element signature="e#429#430#0" expanded="true" />
-            <element signature="e#468#469#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///usr/lib/jvm/java-1.8.0-openjdk-amd64/src.zip!/java/lang/ref/ReferenceQueue.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="373">
-          <caret line="163" column="0" lean-forward="false" selection-start-line="163" selection-start-column="0" selection-end-line="163" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///usr/lib/jvm/java-1.8.0-openjdk-amd64/src.zip!/java/lang/Object.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="184">
-          <caret line="381" column="29" lean-forward="false" selection-start-line="381" selection-start-column="29" selection-end-line="381" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///usr/lib/jvm/java-1.8.0-openjdk-amd64/src.zip!/java/lang/AbstractStringBuilder.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="175">
-          <caret line="78" column="0" lean-forward="false" selection-start-line="78" selection-start-column="0" selection-end-line="78" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///usr/lib/jvm/java-1.8.0-openjdk-amd64/src.zip!/java/lang/StringBuilder.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="175">
-          <caret line="201" column="0" lean-forward="false" selection-start-line="201" selection-start-column="0" selection-end-line="201" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/slazien/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="162">
-          <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/slazien/StringUtilities.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="20" column="0" lean-forward="true" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
-          <folding>
-            <element signature="e#429#430#0" expanded="true" />
-            <element signature="e#468#469#0" expanded="true" />
+            <marker date="1519402303072" expanded="true" signature="671:691" ph="DROP TABLE I... " />
+            <marker date="1519402303072" expanded="true" signature="671:692" ph="DROP TABLE I... " />
+            <marker date="1519402303072" expanded="true" signature="744:770" ph="CREATE TABLE... IF" />
+            <marker date="1519402303072" expanded="true" signature="744:771" ph="CREATE TABLE... IF" />
+            <marker date="1519402303072" expanded="true" signature="744:789" ph="CREATE TABLE... IF" />
+            <marker date="1519402303072" expanded="true" signature="744:815" ph="CREATE TABLE... IF" />
+            <marker date="1519402303072" expanded="true" signature="744:840" ph="CREATE TABLE... IF" />
+            <marker date="1519402303072" expanded="true" signature="744:841" ph="CREATE TABLE... IF" />
+            <marker date="1519402303072" expanded="true" signature="744:890" ph="CREATE TABLE... IF" />
+            <marker date="1519402303072" expanded="true" signature="744:891" ph="CREATE TABLE... IF" />
+            <marker date="1519402303072" expanded="true" signature="744:936" ph="CREATE TABLE... IF" />
+            <marker date="1519402303072" expanded="true" signature="744:962" ph="CREATE TABLE... IF" />
+            <marker date="1519402303072" expanded="true" signature="1289:1296" ph="UPDATE contacts... " />
+            <marker date="1519402303072" expanded="true" signature="1289:1322" ph="UPDATE contacts... " />
+            <marker date="1519402303072" expanded="true" signature="1289:1323" ph="UPDATE contacts... " />
+            <marker date="1519402303072" expanded="true" signature="1289:1371" ph="UPDATE contacts... " />
+            <marker date="1519402303072" expanded="true" signature="1289:1402" ph="UPDATE contacts... " />
+            <marker date="1519402303072" expanded="true" signature="1289:1403" ph="UPDATE contacts... " />
+            <marker date="1519402303072" expanded="true" signature="1289:1429" ph="UPDATE contacts... " />
+            <marker date="1519402303072" expanded="true" signature="1465:1477" ph="DELETE FROM contacts... " />
+            <marker date="1519402303072" expanded="true" signature="1465:1505" ph="DELETE FROM contacts... " />
+            <marker date="1519402303072" expanded="true" signature="1465:1506" ph="DELETE FROM contacts... " />
+            <marker date="1519402303072" expanded="true" signature="1465:1551" ph="DELETE FROM contacts... " />
+            <marker date="1519402303072" expanded="true" signature="1612:1625" ph="SELECT * FRO... " />
+            <marker date="1519402303072" expanded="true" signature="1612:1626" ph="SELECT * FRO... contacts" />
+            <marker date="1519402303072" expanded="true" signature="2301:2447" ph="INSERT INTO contacts... " />
+            <marker date="1519402303072" expanded="true" signature="2301:2461" ph="INSERT INTO contacts... " />
+            <marker date="1519402303072" expanded="true" signature="2301:2477" ph="INSERT INTO contacts... " />
+            <marker date="1519402303072" expanded="true" signature="2301:2492" ph="INSERT INTO contacts... " />
+            <marker date="1519402303072" expanded="true" signature="2301:2494" ph="INSERT INTO contacts... " />
           </folding>
         </state>
       </provider>
@@ -521,7 +443,7 @@
       </state>
       <state key="ModuleStructureConfigurable.UI">
         <settings>
-          <last-edited>DebuggerDemo</last-edited>
+          <last-edited>TestDB</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
@@ -533,7 +455,7 @@
       </state>
       <state key="ProjectLibrariesConfigurable.UI">
         <settings>
-          <last-edited>JTransforms-3.1-sources</last-edited>
+          <last-edited>sqlite-jdbc-3.21.0</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
